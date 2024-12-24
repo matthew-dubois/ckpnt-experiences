@@ -3,8 +3,8 @@
         {
             "id": "nais25",
             "name": "NAIS 2025",
-            "type": "booth",
-            "availableResources": ["inspector, student, com"]
+            "type": "conference",
+            "content": "National Association of Independent Schools Conference *(Thrive)* 2025 at the Music City Center, Nashville, TN\nCheckPoint Student"
         }
     ]
 }
