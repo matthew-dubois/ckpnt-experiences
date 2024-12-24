@@ -1,0 +1,10 @@
+{
+    "experiences": [
+        {
+            "id": "nais25",
+            "name": "NAIS 2025",
+            "type": "booth",
+            "availableResources": ["inspector, student, com"]
+        }
+    ]
+}
