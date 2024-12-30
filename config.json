@@ -1,3 +1,10 @@
 {
-    "orgid"
+    "orgid": "yJGPwN33QJ8G9Xno",
+    "documentation": [
+        {
+            "slug": "basics",
+            "title": "CheckPoint Student Basics",
+            "description": "Get an overview of the ecosystem."
+        }
+    ]
 }
