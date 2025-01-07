@@ -1,0 +1,1 @@
+CheckPoint Student is the fastest and most secure way to confirm student presence on **campus**, in the **classroom**, and **more**.
